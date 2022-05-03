@@ -1,0 +1,10 @@
+Inicializar o diretório 
+- git init
+Para verificar o que foi alterado no arquivo
+- git status
+Para informar quais dos arquivos alterados serão salvos no repositório
+- git add
+Enviar as alterações para o GitHub
+- git push
+Receber alterações do projeto de outro colaborador 
+- git pull
